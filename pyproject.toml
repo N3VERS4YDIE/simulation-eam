@@ -1,0 +1,12 @@
+[project]
+name = "simulation-eam"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.2",
+    "plotly>=6.5.2",
+]
