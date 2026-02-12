@@ -8,8 +8,16 @@ Software Engineering, Institución Universitaria EAM (2026-1).
 
 ## Setup
 
+Python:
+
 ```bash
 uv sync
+```
+
+R:
+
+```bash
+R -e "renv::restore()"
 ```
 
 ## License
